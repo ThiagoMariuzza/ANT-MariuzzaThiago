@@ -1,0 +1,1 @@
+Los pull requests son un mecanismo para que los desarrolladores notifiquen a los miembros de su equipo que han terminado una funcionalidad. Una vez la rama de funcionalidades está lista, el desarrollador realiza la pull request mediante su cuenta
