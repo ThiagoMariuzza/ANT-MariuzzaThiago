@@ -1,5 +1,5 @@
-# Hola
-Soy Tu nombre
+# Hello
+Soy Tu nombre completo
 TU CALLE, 123
 12345 TU CIUDAD (PROVINCIA)
 (34) 000 000 000
@@ -25,6 +25,7 @@ MES DEL 20XX-MES DEL 20XX
 Nombre del centro, Ciudad - Título
 Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto.
 ## Logros
-Escribe aquí tu texto Escribe aquí tu texto.
-Escribe aquí tu texto. 
+- Escale el monte Everest
+- Norville Shaggy
+
 
