@@ -1,8 +1,9 @@
-# Hello
-Soy Tu nombre completo
-TU CALLE, 123
-12345 TU CIUDAD (PROVINCIA)
-(34) 000 000 000
+# Hola
+- Soy Tu Apellido
+- TU CALLE, 123
+12345 
+- TU CIUDAD (PROVINCIA)
+- (34) 000 000 000
 ## Aptitudes
 Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto.
 ## Experiencia
@@ -27,5 +28,8 @@ Escribe aquí tu texto Escribe aquí tu texto Escribe aquí tu texto Escribe aqu
 ## Logros
 - Escale el monte Everest
 - Norville Shaggy
+
+- Escribe aquí tu texto Escribe aquí tu texto.
+- Escribe aquí tu texto. 
 
 
